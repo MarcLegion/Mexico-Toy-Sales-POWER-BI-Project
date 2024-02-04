@@ -1,4 +1,4 @@
-# Mexico-Toy-Sales-Tableau-Project
+# Mexico-Toy-Sales-POWER BI-Project
 
 Sales & inventory data for a fictitious chain of toy stores in Mexico called Maven Toys, including information about products, stores, daily transactions, and current inventory levels at each location.
 
